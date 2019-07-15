@@ -1,5 +1,5 @@
-1.  '(list) ase ar mushaobs unda chaiceros (quoute (list))
-2. +. - * / funqciebi aris sum minus mult divide. 
-3. true aris 1 false aris 0
-4. gamosasvlelad unda chaiweros exit
-5. gb()- ushvebs garbage collectors dasatestad tu dagchirda 
+1.  syntax for '(list) is (quoute (list))
+2. +. - * / functions are sum minus mult divide. 
+3. true is 1 and false is 0
+4. exit command is 'exit'
+5. gb()- lunchs garbage collector 
